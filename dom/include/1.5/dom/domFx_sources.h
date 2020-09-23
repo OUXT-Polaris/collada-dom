@@ -28,7 +28,7 @@ public:
 	class domInline : public daeElement
 	{
 	public:
-		virtual COLLADA_TYPE::TypeEnum getElementType() const { return COLLADA_TYPE::INLINE; }
+		virtual COLLADA_TYPE::TypeEnum getElementType() const { return COLLADA_TYPE::INLINE_TYPE; }
 		static daeInt ID() { return 183; }
 		virtual daeInt typeID() const { return ID(); }
 

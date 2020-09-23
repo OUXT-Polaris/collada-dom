@@ -766,7 +766,7 @@ const int
     FX_INCLUDE = 152,
     FX_CODE = 153,
     FX_SOURCES = 154,
-    INLINE = 155,
+    INLINE_TYPE = 155,
     IMPORT = 156,
     FX_TARGET = 157,
     BINARY = 158,
